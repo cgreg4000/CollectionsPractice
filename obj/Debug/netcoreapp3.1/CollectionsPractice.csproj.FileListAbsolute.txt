@@ -1,0 +1,10 @@
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.deps.json
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.json
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.dev.json
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.pdb
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.csprojAssemblyReference.cache
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfo.cs
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.pdb
